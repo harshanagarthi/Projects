@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+/out/
+bin/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node/React
+node_modules/
+dist/
+.env
+
+# IDEs
+.idea/
+.vscode/
